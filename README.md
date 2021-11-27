@@ -9,7 +9,7 @@ A very simple implementation of [Conway's Game of Life](https://en.wikipedia.org
 And implemented in plain Ruby.
 
 ## Dependencies
-- [Ruby-curses](https://rubygems.org/gems/curses/versions/1.2.4) to make the generations evolve on the screen 
+- [Curses](https://rubygems.org/gems/curses/versions/1.2.4) to make the generations evolve on the screen 
 instead of simply printing out grids one by one. 
 - [Rspec](https://rubygems.org/gems/rspec) for writing BDD style tests.
 - [FactoryBot](https://rubygems.org/gems/factory_bot) fixtures to make initialising data in tests more elegant 
